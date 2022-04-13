@@ -1,0 +1,2 @@
+This is a file added from master
+ANd we are going to merge it with dev branch
